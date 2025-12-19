@@ -1,1 +1,1 @@
-# Nerf-PRoject-
+# Computer-Vision-Heritage_NeRF
